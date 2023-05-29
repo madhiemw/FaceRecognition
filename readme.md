@@ -1,7 +1,3 @@
-Postman API Documentation 
-=====================
-https://documenter.getpostman.com/view/24698470/2s93m8yfS4
-
 File Structure
 =====================
 App/
@@ -26,8 +22,12 @@ Program Specification
 - **Similarity Measuremant** = `Cosine Similarity`
 - **Back End Framework** = `Flask`
 
-Face Recognition API
-====================
+Postman API Documentation 
+=========================
+https://documenter.getpostman.com/view/24698470/2s93m8yfS4
+
+Face Recognition API Explenation  
+================================
 
 This API allows you to register and recognize faces using a face recognition model. It provides endpoints to register a new face image and recognize a face from an image.
 
