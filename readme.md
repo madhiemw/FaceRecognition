@@ -1,6 +1,6 @@
 File Structure
 =====================
-app/
+App/
 
 ├── Dockerfile
 
