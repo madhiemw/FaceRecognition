@@ -1,5 +1,20 @@
+File Structure
+=====================
+app/
 
-API Documentation:
+├── Dockerfile
+
+├── app.py
+
+└── requirements.txt
+
+Program Specification 
+=====================
+- **Programing Language** = `Python`
+- **Database** = `MongoDB`
+- **Facial Recognition System** = `Facenet`
+- **Similarity Measuremant** = `Cosine Similarity`
+- **Back End Framework** = `Flask`
 
 Face Recognition API
 ====================
@@ -133,3 +148,4 @@ Example Usage
    ```
 
 Please make sure to replace `<face_image_file>` with the actual image file in the requests.
+
