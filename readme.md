@@ -8,6 +8,13 @@ App/
 
 └── requirements.txt
 
+Foto/
+
+├── data test
+
+├── testcase
+
+
 Program Specification 
 =====================
 - **Programing Language** = `Python`
